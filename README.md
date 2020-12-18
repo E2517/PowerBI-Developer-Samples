@@ -41,6 +41,10 @@ Available Power BI Embedded solutions:
 
 [Power BI Developer documentation](https://docs.microsoft.com/en-us/power-bi/developer/)
 
+
+
+[Power BI: Tutorial: Embed Power BI content using a sample embed for your customers application](https://docs.microsoft.com/en-us/power-bi/developer/embedded/embed-sample-for-customers?tabs=node-js)
+
 ## Issues
 [Power BI Support page](https://powerbi.microsoft.com/en-us/support/)
 
